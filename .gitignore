@@ -1,0 +1,5 @@
+in-pdf/
+out-pdf/
+*.xlsx
+*.csv
+node_modules/
